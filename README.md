@@ -6,4 +6,4 @@ The vaults are Perfect andextreamly useful for distributing files securely, like
 **Features**
 
 * Utilizes browser built in crypto libaries
-* 2 separate codes needed (multi-key)
+* 2 separate codes for encryption/decryption (multi-key)
